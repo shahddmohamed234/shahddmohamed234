@@ -21,7 +21,7 @@ I am a senior Computer Engineering student at Istanbul Beykent University. I com
 
 Merhaba, Ben Shahd! 👋
 
-*🇹🇷 Türkçe*
+*🇹🇷*
 
 İstanbul Beykent Üniversitesi'nde Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Geçtiğimiz bahar döneminde Polonya'da Erasmus eğitimimi tamamladım ve her zaman yeni şeyler öğrenmeye büyük bir hevesle yaklaşıyorum. 💻
 
