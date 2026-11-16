@@ -1,39 +1,52 @@
-### Hi, I'm Shahd! 👋 
+# Hi, I'm Shahd! 👋
+*🇹🇷 [Türkçe versiyon için aşağı kaydırın (Scroll down for Turkish)](#türkçe-versiyon)*
 
-*English*
+I am a senior Computer Engineering student at Istanbul Beykent University and a dedicated **Mobile Application Developer**. Recently, I completed an intensive 180-hour Flutter bootcamp and I am currently focused on building scalable, cross-platform mobile ecosystems. 🚀
 
-I am a senior Computer Engineering student at Istanbul Beykent University. I completed my Erasmus exchange semester in Poland last spring, and I am always eager to learn new things. 💻
+### 💻 Tech Stack & Languages
+* **Languages I code in:** Dart, Java, C#, C, JavaScript, HTML5, CSS3
+* **Frameworks & UI:** Flutter, Material Design 3
+* **Architecture & Patterns:** Clean Architecture, SOLID Principles, State Management
+* **Database & Storage:** Hive (Offline-first local storage)
+* **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
 
-#### 🚀 My Software Journey
-- **Basic Skills:** Thanks to my university education, I have a fundamental understanding of **C, C#, and Java**.
-- **New Beginnings:** I recently took my first step into mobile app development by starting a new course. I am just at the beginning of this path, but I am incredibly excited to improve my skills!
-- **Goals:** Moving forward, I plan to learn technologies like Python, Dart, and Flutter to build my own projects.
+### 🚀 What I'm Building
+* 📱 **Ciltİzi:** Co-developed an offline-first cosmetic ingredient analysis and tracking app, implementing Clean Architecture and SOLID principles.
+* 🚌 **MaviHat:** Built a digital transit wallet featuring Material Design 3, Hive local storage, map tracking, and simulated NFC payments.
+* 💳 **PayPulse (Group Project):** Collaborated within an agile team to build a multi-screen mobile finance application, experiencing real-world team dynamics and version control.
+* 🎓 **SkillTime:** Architecting my capstone project, a peer-to-peer time-credit skill exchange platform.
 
-#### 🌍 When I'm Away from the Keyboard...
-- I actively speak **3 different languages**.
-- I love **reading books**, **indoor climbing**, and **working out**.
+### 🌍 Beyond the Code
+* 🗣️ **Languages I speak:** Arabic (Native C2), Turkish (C2), English (C1)
 
-#### 📫 Get in Touch
-- **LinkedIn:** (https://www.linkedin.com/in/shahd-mohamed-4624182a7/)
-- **Email:** (shahddmohamed234@gmail.com)
+
+### 📫 Let's Connect
+* **LinkedIn:** [shahd-mohamed](https://www.linkedin.com/in/shahd-mohamed-4624182a7/)
+* **Email:** [shahddmohamed234@gmail.com](mailto:shahddmohamed234@gmail.com)
 
 ---
 
-Merhaba, Ben Shahd! 👋
+<a name="türkçe-versiyon"></a>
+# Merhaba, Ben Shahd! 👋
 
-*🇹🇷*
+İstanbul Beykent Üniversitesi'nde son sınıf Bilgisayar Mühendisliği öğrencisi ve tutkulu bir **Mobil Uygulama Geliştiricisiyim**. Yakın zamanda 180 saatlik kapsamlı bir Flutter eğitim kampını tamamladım ve şu an ölçeklenebilir, çapraz platform mobil ekosistemler oluşturmaya odaklanıyorum. 🚀
 
-İstanbul Beykent Üniversitesi'nde Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Geçtiğimiz bahar döneminde Polonya'da Erasmus eğitimimi tamamladım ve her zaman yeni şeyler öğrenmeye büyük bir hevesle yaklaşıyorum. 💻
+### 💻 Teknoloji Yığını & Diller
+* **Kullandığım Diller:** Dart, Java, C#, C, JavaScript, HTML5, CSS3
+* **Framework & Arayüz:** Flutter, Material Design 3
+* **Mimari & Prensipler:** Clean Architecture, SOLID Prensipleri, Durum Yönetimi (State Management)
+* **Veritabanı & Depolama:** Hive (Çevrimdışı öncelikli yerel depolama)
+* **Araçlar:** Git, GitHub, VS Code, IntelliJ IDEA
 
-#### 🚀 Yazılım Serüvenim
-- **Temel Yetenekler:** Okulda edindiğim eğitim sayesinde **C, C# ve Java** dillerini temel seviyede kullanabiliyorum.
-- **Yeni Başlangıçlar:** Mobil uygulama geliştirme dünyasına yeni bir kursla ilk adımımı attım. Henüz yolun çok başındayım ama kendimi geliştirmek için oldukça heyecanlıyım!
-- **Hedeflerim:** İlerleyen süreçte Python, Dart ve Flutter gibi teknolojilerle de tanışıp kendi projelerimi üretmeyi planlıyorum.
+### 🚀 Geliştirdiğim Projeler
+* 📱 **Ciltİzi:** Clean Architecture ve SOLID prensiplerini uygulayarak, çevrimdışı çalışan bir kozmetik içerik analizi ve takip uygulamasını ekip arkadaşımla birlikte geliştirdim.
+* 🚌 **MaviHat:** Material Design 3, Hive yerel depolama, harita takibi ve NFC ödeme simülasyonu içeren dijital bir toplu taşıma cüzdanı kodladım.
+* 💳 **PayPulse (Grup Projesi):** Çevik (agile) bir takımla işbirliği içinde çok ekranlı bir mobil finans uygulaması geliştirdik; bu süreçte takım çalışması ve versiyon kontrolü dinamiklerini deneyimledim.
+* 🎓 **SkillTime:** Eşler arası (P2P) zaman kredisine dayalı bir yetenek takas platformu olan üniversite bitirme projemin mimarisini tasarlıyorum.
 
-#### 🌍 Bilgisayar Başında Değilken...
-- **3 farklı dili** aktif olarak konuşabiliyorum.
-- **Kitap okumayı**, **tırmanış yapmayı** ve **sporla ilgilenmeyi** seviyorum.
+### 🌍 Kodlamanın Ötesinde
+* 🗣️ **Bildiğim Diller:** Arapça (Anadil C2), Türkçe (C2), İngilizce (C1)
 
-#### 📫 Bana Ulaşın
-- **LinkedIn:** (https://www.linkedin.com/in/shahd-mohamed-4624182a7/)
-- **Email:** (shahddmohamed234@gmail.com)
+### 📫 İletişime Geçelim
+* **LinkedIn:** [shahd-mohamed](https://www.linkedin.com/in/shahd-mohamed-4624182a7/)
+* **E-posta:** [shahddmohamed234@gmail.com](mailto:shahddmohamed234@gmail.com)
