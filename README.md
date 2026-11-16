@@ -7,7 +7,7 @@
 
 ---
 
-I am a senior Computer Engineering student at Istanbul Beykent University and a dedicated **Mobile Application Developer**. Recently, I completed an intensive 180-hour Flutter bootcamp and I am currently focused on building scalable, cross-platform mobile ecosystems. 🚀
+I am a senior Computer Engineering student at Istanbul Beykent University and a dedicated **Mobile Application Developer**. Recently, I completed an intensive 320-hour Flutter bootcamp and I am currently focused on building scalable, cross-platform mobile ecosystems. 🚀
 
 ### 💻 Tech Stack & Tools
 
@@ -41,7 +41,6 @@ I am a senior Computer Engineering student at Istanbul Beykent University and a 
 
 ### 🌍 Beyond the Code
 * 🗣️ **Languages I speak:** Arabic (Native C2), Turkish (C2), English (C1)
-* 🏋️‍♀️ When I'm not writing code, you can find me working out at the gym, trying out new baking recipes, or reading literature.
 
 ### 📫 Let's Connect
 <p align="left">
@@ -55,4 +54,15 @@ I am a senior Computer Engineering student at Istanbul Beykent University and a 
 
 <h2 id="tr-hakkimda">🇹🇷 Merhaba, Ben Shahd! 👋</h2>
 
-İstanbul Beykent Üniversitesi'nde son sınıf Bilgisayar Mühendisliği öğrencisi ve tutkulu bir **Mobil Uygulama Geliştiricisiyim**. Yakın zamanda 180 saatlik kapsamlı bir Flutter eğitim kampını tamamladım ve şu an ölçeklenebilir, çapraz platform mobil ekosistemler oluşturmaya odaklanıyorum. 🚀
+İstanbul Beykent Üniversitesi'nde son sınıf Bilgisayar Mühendisliği öğrencisi ve tutkulu bir **Mobil Uygulama Geliştiricisiyim**. Yakın zamanda 320 saatlik kapsamlı bir Flutter eğitim kampını tamamladım ve şu an ölçeklenebilir, çapraz platform mobil ekosistemler oluşturmaya odaklanıyorum. 🚀
+
+*(Not: Teknoloji ve iletişim bağlantıları evrensel olduğu için İngilizce kısımda üstte bırakılmıştır.)*
+
+### 🚀 Geliştirdiğim Projeler
+* 📱 **Ciltİzi:** Clean Architecture ve SOLID prensiplerini uygulayarak, çevrimdışı çalışan bir kozmetik içerik analizi ve takip uygulamasını ekip arkadaşımla birlikte geliştirdim.
+* 🚌 **MaviHat:** Material Design 3, Hive yerel depolama, harita takibi ve NFC ödeme simülasyonu içeren dijital bir toplu taşıma cüzdanı kodladım.
+* 💳 **PayPulse (Grup Projesi):** Çevik (agile) bir takımla işbirliği içinde çok ekranlı bir mobil finans uygulaması geliştirdik; bu süreçte takım çalışması ve versiyon kontrolü dinamiklerini deneyimledim.
+* 🎓 **SkillTime:** Eşler arası (P2P) zaman kredisine dayalı bir yetenek takas platformu olan üniversite bitirme projemin mimarisini tasarlıyorum.
+
+### 🌍 Kodlamanın Ötesinde
+* 🗣️ **Bildiğim Diller:** Arapça (Anadil C2), Türkçe (C2), İngilizce (C1)
